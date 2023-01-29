@@ -18,4 +18,10 @@ On this part we connecting the remote computer, compile the file to remote compu
 
 ![image](lab2.4.png)
 
+I decided to use port of number 4501, here is one of result
+
+![image](lab2.5.png)
+
+After i finished this lab, i found out i may create a website and i'm able to record the number of visitor and by using the interface, they can make commit or upload anything on my website.
+
 
