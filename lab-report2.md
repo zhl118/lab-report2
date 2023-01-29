@@ -1,0 +1,12 @@
+Lab Report 2
+
+The URLHandler Interface
+
+In week2 lab, we analyized the code about the URL by given file called NumberServer.java. Me and my partner write an analyze about each line code which are:
+
+The handle request is to capture the current number of the path and the specific path of the url. If there is “/increment”, the current number will be added 1, and print”increment’. Else, if the url contains”/add”, the url will be splitted with”=”, and return the string type”Number increased by %s! It is now %d, parameter[1]”
+If there is not add or path, that will print”404 not found”
+
+And we try to path different ways to get different results on the URL we implements:
+
+
