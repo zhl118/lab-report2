@@ -15,6 +15,8 @@ And we try to path different ways to get different results on the URL we impleme
 Run the Server on a Remote Computer
 
 On this part we connecting the remote computer, compile the file to remote computer and trying to operate the same step about URLHandler on the remote computer,but we have to use different port number
+javac <>.java to compile the code
+cd - path the director
 
 ![image](lab2.4.png)
 
