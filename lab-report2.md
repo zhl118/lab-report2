@@ -8,5 +8,8 @@ The handle request is to capture the current number of the path and the specific
 If there is not add or path, that will print”404 not found”
 
 And we try to path different ways to get different results on the URL we implements:
+![Image](lab-2.png)
+![Image](lab2.2.png)
+![Image](lab2.3.png)
 
 
