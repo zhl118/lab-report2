@@ -16,7 +16,9 @@ Run the Server on a Remote Computer
 
 On this part we connecting the remote computer, compile the file to remote computer and trying to operate the same step about URLHandler on the remote computer,but we have to use different port number
 
-Hold on. Do we have one or two lista before we proceed
+*javac <>.java compile the java file*
+
+*cd - path the director*
 
 ![image](lab2.4.png)
 
@@ -27,3 +29,23 @@ I decided to use port of number 4501, here is one of result
 After i finished this lab, i found out i may create a website and i'm able to record the number of visitor and by using the interface, they can make commit or upload anything on my website.
 
 
+Lab report week 3
+
+first we do about running Junit on remote server,if we compile with wrong vision of operation. Error will apear.
+
+![image](lab report.png)
+
+Next
+
+I try to deal with the case to let the code fail
+
+![image](lab report1.png)
+
+Here shows our code is unable to pass the tests case
+
+![image](lab report2.png)
+
+
+Conclusion
+
+After i finished week2 and week3, i found out i may create a website and i'm able to record the number of visitor and by using the interface, they can make commit or upload anything on my website. And i also learned how to run Junit on remote server, and trying to find bug and fix it
