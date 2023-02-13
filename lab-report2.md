@@ -33,17 +33,17 @@ Lab report week 3
 
 first we do about running Junit on remote server,if we compile with wrong vision of operation. Error will apear.
 
-![Image](lab report.png)
+![Image](lab-report.png)
 
 Next
 
 I try to deal with the case to let the code fail
 
-![Image](lab report1.png) 
+![Image](lab-report1.png) 
 
 Here shows our code is unable to pass the tests case
 
-![Image](lab report2.png) 
+![Image](lab-report2.png) 
 
 
 Conclusion
